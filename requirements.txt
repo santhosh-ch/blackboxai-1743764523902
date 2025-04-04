@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+twilio==8.2.1
+llama-cpp-python==0.1.78
+sqlite3==2.6.0
+whisper-cpp==0.1.0
+coqui-tts==0.1.0
